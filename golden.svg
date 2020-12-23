@@ -7,7 +7,7 @@
     }
 
     .spiral {
-      stroke: hsla(45, 100%, 50%, 0.5);
+      stroke: hsl(45, 100%, 50%);
       stroke-width: 3;
       stroke-linecap: round;
       fill: none;

@@ -2,3 +2,7 @@
 
 A collection of hacky tools I've created and use to create
 SVG images for use as desktop backgrounds.
+
+![dr-logo](./output/dr-logo.png)
+
+![golden-spiral-rectangle](./output/golden.png)
