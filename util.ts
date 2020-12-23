@@ -14,7 +14,7 @@ const goldenRatio = (precision: number) => {
 }
 
 const G = goldenRatio(50)
-
+console.log({G})
 const multiply = (factor: number) => factor * G;
 
 const divide = (divisor: number, small: boolean) =>
