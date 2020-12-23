@@ -1,0 +1,6 @@
+{
+  "svg.preview.background": "black",
+  "deno.enable": true,
+  "deno.lint": true,
+  "deno.unstable": true
+}
